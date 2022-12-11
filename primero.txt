@@ -1,5 +1,14 @@
-Este es mi promer ejercicio en GIT 
-tengo 21 años de edad apunto de cumplir 22, me gusta leer mucho 
-y tomar poco.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>git</title>
+</head>
+<body>
+    apartir de aqui voy a crear ramas o branches
+</body>
+</html>
 
-estoy tomando una clase de freddy despues de trabajar,
+
